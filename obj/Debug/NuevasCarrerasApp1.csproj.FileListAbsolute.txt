@@ -1,0 +1,12 @@
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.csproj.AssemblyReference.cache
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.NuevoPlan.resources
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.Properties.Resources.resources
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.csproj.GenerateResource.cache
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.csproj.CoreCompileInputs.cache
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\bin\Debug\NuevasCarrerasApp1.exe.config
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\bin\Debug\NuevasCarrerasApp1.exe
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\bin\Debug\NuevasCarrerasApp1.pdb
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.exe
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.pdb
+C:\Users\agusm\OneDrive\Escritorio\UTN_2C\Programacion_II\EjercicioPractica1\NuevasCarrerasApp1\obj\Debug\NuevasCarrerasApp1.Reporte.resources
